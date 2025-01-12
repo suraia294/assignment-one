@@ -157,3 +157,41 @@
     width: 1280px;
     height: 402px;
 }
+/* donate today */
+.btn-donate-one{
+    font-weight: bold;
+    font-size: 26px;
+    background-color: white;
+    width: 240px;
+    height: 128px;
+    padding: 40px;
+    color: #0e0e0ed4;
+    border-radius: 16px;
+    
+}
+.btn-donate-two{
+    font-weight: bold;
+    font-size: 26px;
+    background-color: #C6E4D6;
+    width: 240px;
+    height: 128px;
+    padding: 40px;
+    color: #0e0e0ed4;
+    border-radius: 16px;
+    
+}
+.btn-three{
+    font-weight: 400;
+    font-size: 20px;
+    width: 1032px;
+    height: 64px;
+    padding: 0 40px;
+    color: #0e0e0e58;
+    background-color: white;
+}
+.vision-today{
+    width: 1280px;
+    height: 464px;
+    margin:120px 160px;
+    padding: 104px;
+}
